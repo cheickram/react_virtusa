@@ -1,0 +1,21 @@
+.cards {
+   border: none;
+}
+.image__cards {
+   border: none;
+   z-index: 100;
+}
+.items {
+   /* font-size: 15px; */
+   font-weight: 700;
+   /* color: gray; */
+   margin-left: 10px;
+}
+.item__s {
+   /* font-size: 15px; */
+   font-weight: 700;
+}
+.itemss {
+   /* font-size: 18px; */
+   font-weight: 700;
+}

@@ -1,0 +1,13 @@
+.thFont {
+    font-family: "Indie Flower", cursive;
+}
+
+.orderBtn {
+    background-color: #00bfa6;
+    color: #fff;
+}
+
+.orderBtn:hover {
+    background-color: #03554a;
+    color: #fff;
+}
